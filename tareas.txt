@@ -1,0 +1,12 @@
+TAREAS PENDIENTES:
+- Terminar el módulo 8
+- Revisar documentación
+- Preparar presentación
+
+TAREAS REALIZADAS:
+- Crear ramas anteriores
+- Resolver conflicto en módulo 6
+
+TAREAS BLOQUEADAS:
+- Integración con API
+- Diseño final del dashboard

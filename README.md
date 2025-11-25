@@ -130,3 +130,18 @@
 
 # Hoy aprendí cómo funciona Git y cómo puedo manejar mis proyectos de forma profesional. Entendí la importancia de los commits, ramas, merges y la comunicación con GitHub. Además, practiqué un flujo de trabajo real similar al que se usa en empresas. Fue un ejercicio útil para mejorar como desarrollador.
 
+Problemas del día
+
+Durante el desarrollo del taller se presentaron algunos problemas relacionados con el manejo de ramas, resolución de conflictos y sincronización entre el repositorio local y remoto. También hubo confusión inicial sobre cómo funciona .gitignore y cómo editar archivos correctamente desde la terminal.
+
+¿Qué aprendí hoy?
+
+Hoy aprendí a manejar Git de una forma más profesional, crear y gestionar ramas, trabajar con repositorios remotos, realizar Pull Requests, resolver conflictos, usar .gitignore y seguir un flujo de trabajo completo como en un entorno real de desarrollo. También fortalecí mi entendimiento del versionamiento y del trabajo colaborativo.
+
+¿Qué fue lo más difícil?
+
+Lo más difícil fue comprender la resolución de conflictos y el proceso de trabajar simultáneamente con diferentes ramas. También fue retador entender cuándo usar cada comando y cómo estructurar correctamente los PRs y merges sin errores.
+
+Conclusión del taller
+
+Este taller permitió practicar Git y GitHub de forma completa y realista. Ahora tengo una base sólida para trabajar con repositorios, contribuir a proyectos, documentar correctamente y llevar un flujo profesional de trabajo. La experiencia fue útil y práctica, y refuerza las habilidades necesarias para el desarrollo moderno.

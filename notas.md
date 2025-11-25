@@ -1,2 +1,2 @@
-Notas del estudiante A
+Notas modificadas por el estudiante A para generar conflicto
 

@@ -1,2 +1,2 @@
-Notas del estudiante B
+Notas combinadas del equipo
 
